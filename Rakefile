@@ -3,7 +3,7 @@ $LOAD_PATH.unshift File.join(File.dirname(__FILE__), 'lib', 'rightscale-api')
 begin
   require 'jeweler'
   Jeweler::Tasks.new do |gemspec|
-    gemspec.name = "rightscale-api"
+    gemspec.name = "threetee-rightscale-api"
     gemspec.summary = "A Ruby Wrapper for the RightScale API"
     gemspec.description = "A Ruby Wrapper for the RightScale API"
     gemspec.email = "david.michael@sonymusic.com"
